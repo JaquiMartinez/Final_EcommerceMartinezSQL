@@ -1,0 +1,37 @@
+Guía de pasos para la instalacion correcta de la base de datos correspondiente al E-commerce "JM Shoes", debes ingresar a la carpeta
+"FinalMartinezSQL" y luego debes ejecutar los siguientes script en el orden dado a continuación:
+
+1 - Creación de tablas: Crea la base de datos y sus correspondientes tablas.
+2 - Inserción de datos: En este caso se utilizo archivos .CSV, deberás descargarlo y luego desde el Workbench de mysql exportar en cada tabla correspondiente.
+3 - Creación de vistas: Contiene los script para la creacion de 5 vistas de la base de datos.
+4 - Creación de funciones: Crea 2 funciones que corresponden a la base de datos.
+5 - Creación de procedimientos: Crea 2 procedimientos de la base de datos.
+6 - Creación de Triggers: Crea 2 triggers el cual el 1° por cada inserción en la tabla Productos inserta un registro en la tabla RegistroInserciones
+el 2° por cada actualización en la tabla Productos inserta un registro en la tabla RegistroActualizaciones que registra el ID del producto actualizado
+7 - DCL : Creación de usuarios y otorga los permisos correspondiente a cada uno con relación a la base de datos.
+8 - TCL : realiza un transacción, una sentencia de modificación hacia algunas tablas.
+
+Se agrega un archivo adicional de respaldo, por cualquier eventualidad para realizar un backup de la base datos.
+En ese caso ejecutar el siguiente archivo:
+		backup-final.sql 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

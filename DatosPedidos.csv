@@ -1,0 +1,16 @@
+idClientes,fecha_pedido,forma_pago,estado
+1,2024-01-13,Tarjeta de Debito,Enviado
+2,2024-01-20,Tarjeta de Credito,Enviado
+3,2024-01-25,Transferencia Bancaria,Enviado
+4,2024-02-01,Efectivo,Retirado
+5,2024-02-10,Tarjeta de Credito,Retirado
+6,2024-02-15,Tarjeta de Credito,Enviado
+7,2024-02-17,Transferencia Bancaria,Retirado
+8,2024-02-28,Tarjeta de Debito,Retirado
+9,2024-03-01,Efectivo,Retirado
+10,2024-03-10,Tarjeta de Credito,Enviado
+11,2024-03-11,Tarjeta de Debito,Enviado
+12,2024-03-16,Efectivo,Retirado
+13,2024-03-18,Tarjeta de Credito,Retirado
+14,2024-03-19,Tarjeta de Credito,En Proceso
+15,2024-03-21,Tarjeta de Credito,En Proceso
